@@ -1,0 +1,21 @@
+{
+    "name": "tung1/c-oop",
+    "autoload": {
+        "psr-4": {
+            "Tung1\\COop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Minhhoa20033",
+            "email": "nguyenminhhoa30903@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6",
+        "eftec/bladeone": "^4.13",
+        "doctrine/dbal": "^4.0",
+        "rakit/validation": "^1.4",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
