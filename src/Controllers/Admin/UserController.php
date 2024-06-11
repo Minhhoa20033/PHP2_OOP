@@ -34,7 +34,7 @@ class UserController extends Controller
         //         'email' => "Admin$i@poly.edu.vn",
         //         'password' => password_hash('12345678', PASSWORD_DEFAULT),
         //     ]);
-        }
+        // }git
     }
 
     public function store()
